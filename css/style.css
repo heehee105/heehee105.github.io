@@ -1,0 +1,33 @@
+
+.card {
+	margin: 10px;
+
+}
+
+.card-bg {
+
+	background-image: url("../img/meow.png");
+
+}
+
+h3, h4 {
+	align-self: center;
+}
+
+p {
+
+	align-self: center;
+	color:grey;
+
+}
+
+.card-white {
+
+    padding: 5px;
+	background-color: white;
+}
+
+ body { 
+
+   background-color: #FADBDA;
+  }
